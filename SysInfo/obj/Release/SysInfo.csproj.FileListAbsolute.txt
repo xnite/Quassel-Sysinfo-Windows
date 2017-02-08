@@ -1,0 +1,5 @@
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.exe.config
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.exe
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.pdb
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.exe
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.pdb

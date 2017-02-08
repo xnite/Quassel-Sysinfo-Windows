@@ -1,0 +1,6 @@
+e:\xnite\documents\visual studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.csprojResolveAssemblyReference.cache
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.exe
+E:\xnite\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.pdb
